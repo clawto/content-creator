@@ -30,6 +30,6 @@ license: MIT
 | `scripts/copywriter.py` | 爆款标题/文案生成 |
 | `scripts/schedule.py` | 最佳发布时间 |
 
-## 🫶 Support
+## 🫶 Donation
 
 MIT
