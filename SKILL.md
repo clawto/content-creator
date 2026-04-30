@@ -1,45 +1,36 @@
 ---
-name: skill-template
-description: "Replace with your skill description. Trigger on: relevant keywords."
+name: content-creator
+description: "抖音/小红书/B站/知乎内容创作助手：热点追踪,文案生成,标题优化,数据分析。Trigger on: 抖音,小红书,B站,知乎,内容创作,文案,标题,爆款,涨粉,视频脚本,选题,热点."
 version: 1.0.0
 license: MIT
 ---
 
-# Skill Name
+# Content Creator 🎨
+
+中文内容创作助手 — 抖音/小红书/B站/知乎智能创作与分析。
 
 ## What it does
-Brief description of what this skill enables the agent to do.
+
+- **热点追踪**: 实时抓取各平台热搜/热榜
+- **文案生成**: AI驱动的短视频脚本、小红书笔记、知乎回答
+- **标题优化**: 点击率提升的标题公式
+- **数据分析**: 账号数据看板、竞品分析
+- **选题建议**: 基于趋势的创作选题
+- **发布优化**: 最佳发布时间、Tag推荐
 
 ## Trigger Conditions
-When to activate this skill (keywords, contexts, user intents).
-
-## Prerequisites
-- Required CLIs, APIs, or services
-- Required API keys or tokens (use environment variables)
-
-## Installation
-```
-clawhub install <slug>
-```
-
-## Configuration
-```
-# Required environment variables
-export API_KEY=your_key_here
-```
-
-## Usage
-Example interactions showing the skill in action.
+- 内容创作、写文案、起标题
+- 热点追踪、趋势分析
+- 账号运营、涨粉策略
 
 ## Scripts
-- `scripts/` — Executable scripts called by the skill
-- `references/` — Reference docs, data files, config examples
+| Script | Purpose |
+|--------|---------|
+| `scripts/hotspot.py` | 多平台热点聚合 |
+| `scripts/copywriter.py` | 爆款标题/文案生成 |
+| `scripts/schedule.py` | 最佳发布时间 |
 
-## Testing
-```
-# Run tests
-./test/run.sh
-```
+## 🫶 Support
+BTC: `bc1qxy2kgdygjrsqtzq2n0yrf2493p3q5k3v7dw9lx` | ETH: `0x71C7656EC7ab88b098defB751B7401B5f6d8976F`
 
-## License
 MIT
